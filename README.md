@@ -21,5 +21,7 @@ Just another repository
 4. Item 4
 
 
-| 1 col | 2 col | 3 col | 4 col |
+| 1 col | 2 col | 3 col | 4 col |  
+| ------|:------|:-----:|-------:|
+
 | qwet  |  tewt |  watr | astwe |
