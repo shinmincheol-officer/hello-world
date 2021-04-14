@@ -39,4 +39,4 @@ Just another repository
 
 강조효과  [test](#Emphasis-Is-Here)
 
-![구글 로고]
+![구글 로고](이미지주소 입력)
