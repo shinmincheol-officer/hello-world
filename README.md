@@ -15,3 +15,7 @@ Just another repository
   * Item 4
 + Item 2
 - Item 3
+
+1. Item 1
+2. Item 3
+3. Item 4
