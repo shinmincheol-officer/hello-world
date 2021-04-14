@@ -55,3 +55,5 @@ Just another repository
 name = "world"
 print(name)
 ```
+
+python 에서 `random` 패키지에서 `randint` 함수를 사용하세요.
