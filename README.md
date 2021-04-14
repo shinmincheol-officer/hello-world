@@ -1,12 +1,17 @@
 # su9king.github.io
 Just another repository
 
-##
+## 차례  
 
-=====  
+1. [강조](##Emphasis)
+2. [리스트](##Lists)
+
+
+##Emphasis
+
 이것은 한 문장입니다.  
 이것은 다음 문장입니다.  
------  
+
 이것은 다음 문단입니다.  
 이것은 다음 문장입니다.  
 
@@ -20,6 +25,7 @@ Just another repository
 3. Item 3
 4. Item 4
 
+# table
 
 | 1 col | 2 col | 3 col | 4 col |  
 | ------|:------|:-----:|-------:|
@@ -27,4 +33,8 @@ Just another repository
 
 # 링크
 
-구글로 가고싶으면 [이것](https://www.google.co.kr)을 클릭하세요.
+구글로 가고싶으면 [이것](https://www.google.co.kr)을 클릭하세요.  
+
+구글 홈페이지 : https://www.google.co.kr  
+
+강조효과  
