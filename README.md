@@ -40,3 +40,6 @@ Just another repository
 강조효과  [test](#Emphasis-Is-Here)
 
 ![구글 로고](이미지주소 입력)
+
+
+> 너 자신을 알라. 소크라테스
