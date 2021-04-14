@@ -51,7 +51,7 @@ Just another repository
       return a + b
       
       
-'''python
+```python
 name = "world"
 print(name)
-'''
+```
