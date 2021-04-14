@@ -39,7 +39,7 @@ Just another repository
 
 강조효과  [test](#Emphasis-Is-Here)
 
-![구글 로고](https://ppss.kr/wp-content/uploads/2015/09/google-logo-874x288.png)
+![구글 로고](https://ppss.kr/wp-content/uploads/2015/09/google-logo-874x288.png "마우스 위에 가져다 두면 이 글 나옴" )
 
 
 > 너 자신을 알라.   
