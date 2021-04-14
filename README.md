@@ -43,4 +43,9 @@ Just another repository
 
 
 > 너 자신을 알라.   
-> 나도 나를 모른다 . 
+> 나도 나를 모른다. 소크라테스 
+> 
+
+
+    def sum(a,b):
+      return a + b
