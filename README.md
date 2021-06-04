@@ -1,8 +1,8 @@
 # su9king.github.io
 Just another repository
 
-## 차례  
-
+## 사이트 개발 예정.
+<!--
 1. [강조](##Emphasis)
 2. [리스트](##Lists)
 
@@ -57,7 +57,7 @@ print(name)
 ```
 
 python 에서 `random` 패키지에서 `randint` 함수를 사용하세요.
-
+-->
 <!--
 아아아아아아악앙극ㅂ자갑ㅈ갑작 이거 주석이라 화면에선 안보임~~
 -->
